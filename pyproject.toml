@@ -14,6 +14,7 @@ torch = ">=2.0.0, !=2.0.1"
 torchvision = "^0.15"
 tqdm = "^4.66.1"
 packaging = "^23.1"
+jupyter = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.25.1"
